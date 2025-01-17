@@ -1,0 +1,1 @@
+curl -X POST https://your-server/api/rgb -H "Content-Type: application/json" -d '{"r": 255, "g": 0, "b": 0}'
